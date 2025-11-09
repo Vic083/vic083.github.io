@@ -1,2 +1,2 @@
-# vic083.github.io
+smarttech.github.io
 a website for technological innovatio
